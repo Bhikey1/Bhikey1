@@ -24,6 +24,7 @@ data analytics and related topics.
 In this section, I will list data analytics projects briefly describing how I performed and solved the analytic questions.
 
 # [New York city AirBnB](Bhikey1/New-York-City-AirBnB1)
+### Data visualization: [AirBnB](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/NewYorkCityAirBnB_16967239353260/AirBnBNYC)
   Description: AirBnB, Inc. is an American San Francisco based company operating an online marketplace for short and long
   term homestays and experiences. This dataset describes the listing activities and metrics in NYC, NY for 2019. The tasks
   are: what we can learn about different areas, what we can learn from predictions (examples: locations and prices, location
@@ -34,6 +35,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Tools: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 # [Maven Telecommunication Customer Churn](Bhikey1/Maven-Telecom-Customer-Churn)
+### Data visualization: [Customer Churn](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn)
   Description: Churn analysis for fictional telecommunication company that provides phone and internet services to 7,043 
   customers in California and include details about customer demographics, location, services and current status. The 
   task is to improve retention by retention by identifying high value customers and churn rate. The project includes the 
@@ -42,6 +44,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Tools: Python, Tableau Pandas, Numpy, Tableau.
 
 # [E-commerce Sales Analysis](Bhikey1/Ecommerce-sales)
+### Data visualization: [Sales Analysis](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/E-commercesalesanalysis_16924077581270/E-commerceSales)
   Description: An ecommerce that sells electronic product such as phones, charger etc in the USA, and the data comprises
   of details about customer location, order date, product name and price. The task is to know the best month for sales and
   how much was earned, what city had the highest number of sales, what time and day should advertisement be done, and what
@@ -50,6 +53,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Tools: MS Excel, MySQL, Tableau
 
 # [Customer Behavior Analysis](Bhikey1/Ecommerce-sales-transaction-customer-analysis)
+### Data visualization: [Customer Behavior](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/EcommerceCustomerAnalysis_16948205551450/Ecommercesales)
   Description: Sales data for an ecommerce that sells bikes and bikes' accessories to customers around the world. The dataset
   include details about customer demographics, location, order quantity, unit price, unit cost, profit and revenue. The task
   is to analyze customer demographics by states in the United Statees to understand the purchasing trends. That is, to know 
@@ -58,7 +62,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Tools: MS Excel, MySQL, Tableau
 
 # Contacts
-  LinkedIn: @Morakinyo-oluwabukunmi
+  LinkedIn: www.linkedin.com/in/Morakinyo-oluwabukunmi
   Email: morakinyobukunmi@gmail.com
-  
+#000000
 
