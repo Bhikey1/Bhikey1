@@ -1,3 +1,4 @@
+`#000000` 
 # Morakinyo Oluwabukunmi - Data Analysis Portfolio
 
 # ABOUT
@@ -12,18 +13,17 @@ data analytics and related topics.
 # Table of Contents
 - About
 - Portfolio Projects
-  - Customer Churn Analysis
+  - New York City AirBnb
+  - Maven Telecommunication Customer Churn
+  - E-commerce Sales Analysis
   - Customer Behavior Analysis
-  - e-commerce Sales Analysis
-  - Global Superstore
-  - New York City AirBnB
 - Certificates
 - Contacts
 
 # Portfolio Projects 
 In this section, I will list data analytics projects briefly describing how I performed and solved the analytic questions.
 
-# [New York city AirBnB](Bhikey1/New-York-City-AirBnB1)
+## [New York city AirBnB](Bhikey1/New-York-City-AirBnB1)
 ### Data visualization: [AirBnB](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/NewYorkCityAirBnB_16967239353260/AirBnBNYC)
   Description: AirBnB, Inc. is an American San Francisco based company operating an online marketplace for short and long
   term homestays and experiences. This dataset describes the listing activities and metrics in NYC, NY for 2019. The tasks
@@ -34,7 +34,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
   Tools: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-# [Maven Telecommunication Customer Churn](Bhikey1/Maven-Telecom-Customer-Churn)
+## [Maven Telecommunication Customer Churn](Bhikey1/Maven-Telecom-Customer-Churn)
 ### Data visualization: [Customer Churn](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn)
   Description: Churn analysis for fictional telecommunication company that provides phone and internet services to 7,043 
   customers in California and include details about customer demographics, location, services and current status. The 
@@ -43,7 +43,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
   Tools: Python, Tableau Pandas, Numpy, Tableau.
 
-# [E-commerce Sales Analysis](Bhikey1/Ecommerce-sales)
+## [E-commerce Sales Analysis](Bhikey1/Ecommerce-sales)
 ### Data visualization: [Sales Analysis](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/E-commercesalesanalysis_16924077581270/E-commerceSales)
   Description: An ecommerce that sells electronic product such as phones, charger etc in the USA, and the data comprises
   of details about customer location, order date, product name and price. The task is to know the best month for sales and
@@ -52,7 +52,7 @@ In this section, I will list data analytics projects briefly describing how I pe
   Skills: data cleaning, data analysis, descriptive statistics, data visualization, Basket Analysis.
   Tools: MS Excel, MySQL, Tableau
 
-# [Customer Behavior Analysis](Bhikey1/Ecommerce-sales-transaction-customer-analysis)
+## [Customer Behavior Analysis](Bhikey1/Ecommerce-sales-transaction-customer-analysis)
 ### Data visualization: [Customer Behavior](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/EcommerceCustomerAnalysis_16948205551450/Ecommercesales)
   Description: Sales data for an ecommerce that sells bikes and bikes' accessories to customers around the world. The dataset
   include details about customer demographics, location, order quantity, unit price, unit cost, profit and revenue. The task
@@ -64,5 +64,4 @@ In this section, I will list data analytics projects briefly describing how I pe
 # Contacts
   LinkedIn: www.linkedin.com/in/Morakinyo-oluwabukunmi
   Email: morakinyobukunmi@gmail.com
-#000000
 
